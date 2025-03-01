@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rahul 9422253987\\source\\repos\\Chapter_Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{494DE89C-EE1B-4D79-93D0-0997790371B0}|Chapter_Inheritance.csproj|c:\\users\\rahul 9422253987\\source\\repos\\chapter_inheritance\\multilevelinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494DE89C-EE1B-4D79-93D0-0997790371B0}|Chapter_Inheritance.csproj|solutionrelative:multilevelinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494DE89C-EE1B-4D79-93D0-0997790371B0}|Chapter_Inheritance.csproj|c:\\users\\rahul 9422253987\\source\\repos\\chapter_inheritance\\singleinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494DE89C-EE1B-4D79-93D0-0997790371B0}|Chapter_Inheritance.csproj|solutionrelative:singleinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494DE89C-EE1B-4D79-93D0-0997790371B0}|Chapter_Inheritance.csproj|c:\\users\\rahul 9422253987\\source\\repos\\chapter_inheritance\\multipleinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494DE89C-EE1B-4D79-93D0-0997790371B0}|Chapter_Inheritance.csproj|solutionrelative:multipleinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494DE89C-EE1B-4D79-93D0-0997790371B0}|Chapter_Inheritance.csproj|c:\\users\\rahul 9422253987\\source\\repos\\chapter_inheritance\\hybridinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494DE89C-EE1B-4D79-93D0-0997790371B0}|Chapter_Inheritance.csproj|solutionrelative:hybridinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494DE89C-EE1B-4D79-93D0-0997790371B0}|Chapter_Inheritance.csproj|c:\\users\\rahul 9422253987\\source\\repos\\chapter_inheritance\\hierarchicalinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494DE89C-EE1B-4D79-93D0-0997790371B0}|Chapter_Inheritance.csproj|solutionrelative:hierarchicalinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494DE89C-EE1B-4D79-93D0-0997790371B0}|Chapter_Inheritance.csproj|c:\\users\\rahul 9422253987\\source\\repos\\chapter_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494DE89C-EE1B-4D79-93D0-0997790371B0}|Chapter_Inheritance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HybridInheritance.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul 9422253987\\source\\repos\\Chapter_Inheritance\\HybridInheritance.cs",
+              "RelativeDocumentMoniker": "HybridInheritance.cs",
+              "ToolTip": "C:\\Users\\Rahul 9422253987\\source\\repos\\Chapter_Inheritance\\HybridInheritance.cs",
+              "RelativeToolTip": "HybridInheritance.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwC0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:09:50.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HierarchicalInheritance.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul 9422253987\\source\\repos\\Chapter_Inheritance\\HierarchicalInheritance.cs",
+              "RelativeDocumentMoniker": "HierarchicalInheritance.cs",
+              "ToolTip": "C:\\Users\\Rahul 9422253987\\source\\repos\\Chapter_Inheritance\\HierarchicalInheritance.cs",
+              "RelativeToolTip": "HierarchicalInheritance.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwCQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:08:44.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultipleInheritance.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul 9422253987\\source\\repos\\Chapter_Inheritance\\MultipleInheritance.cs",
+              "RelativeDocumentMoniker": "MultipleInheritance.cs",
+              "ToolTip": "C:\\Users\\Rahul 9422253987\\source\\repos\\Chapter_Inheritance\\MultipleInheritance.cs",
+              "RelativeToolTip": "MultipleInheritance.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:07:08.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MultilevelInheritance.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul 9422253987\\source\\repos\\Chapter_Inheritance\\MultilevelInheritance.cs",
+              "RelativeDocumentMoniker": "MultilevelInheritance.cs",
+              "ToolTip": "C:\\Users\\Rahul 9422253987\\source\\repos\\Chapter_Inheritance\\MultilevelInheritance.cs",
+              "RelativeToolTip": "MultilevelInheritance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:15:16.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul 9422253987\\source\\repos\\Chapter_Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Rahul 9422253987\\source\\repos\\Chapter_Inheritance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:36:33.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingleInheritance.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul 9422253987\\source\\repos\\Chapter_Inheritance\\SingleInheritance.cs",
+              "RelativeDocumentMoniker": "SingleInheritance.cs",
+              "ToolTip": "C:\\Users\\Rahul 9422253987\\source\\repos\\Chapter_Inheritance\\SingleInheritance.cs",
+              "RelativeToolTip": "SingleInheritance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T12:30:02.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

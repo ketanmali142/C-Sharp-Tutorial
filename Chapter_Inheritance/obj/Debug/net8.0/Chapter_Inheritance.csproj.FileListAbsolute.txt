@@ -1,0 +1,14 @@
+C:\Users\Rahul 9422253987\source\repos\Chapter_Inheritance\bin\Debug\net8.0\Chapter_Inheritance.exe
+C:\Users\Rahul 9422253987\source\repos\Chapter_Inheritance\bin\Debug\net8.0\Chapter_Inheritance.deps.json
+C:\Users\Rahul 9422253987\source\repos\Chapter_Inheritance\bin\Debug\net8.0\Chapter_Inheritance.runtimeconfig.json
+C:\Users\Rahul 9422253987\source\repos\Chapter_Inheritance\bin\Debug\net8.0\Chapter_Inheritance.dll
+C:\Users\Rahul 9422253987\source\repos\Chapter_Inheritance\bin\Debug\net8.0\Chapter_Inheritance.pdb
+C:\Users\Rahul 9422253987\source\repos\Chapter_Inheritance\obj\Debug\net8.0\Chapter_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahul 9422253987\source\repos\Chapter_Inheritance\obj\Debug\net8.0\Chapter_Inheritance.AssemblyInfoInputs.cache
+C:\Users\Rahul 9422253987\source\repos\Chapter_Inheritance\obj\Debug\net8.0\Chapter_Inheritance.AssemblyInfo.cs
+C:\Users\Rahul 9422253987\source\repos\Chapter_Inheritance\obj\Debug\net8.0\Chapter_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Rahul 9422253987\source\repos\Chapter_Inheritance\obj\Debug\net8.0\Chapter_Inheritance.dll
+C:\Users\Rahul 9422253987\source\repos\Chapter_Inheritance\obj\Debug\net8.0\refint\Chapter_Inheritance.dll
+C:\Users\Rahul 9422253987\source\repos\Chapter_Inheritance\obj\Debug\net8.0\Chapter_Inheritance.pdb
+C:\Users\Rahul 9422253987\source\repos\Chapter_Inheritance\obj\Debug\net8.0\Chapter_Inheritance.genruntimeconfig.cache
+C:\Users\Rahul 9422253987\source\repos\Chapter_Inheritance\obj\Debug\net8.0\ref\Chapter_Inheritance.dll
